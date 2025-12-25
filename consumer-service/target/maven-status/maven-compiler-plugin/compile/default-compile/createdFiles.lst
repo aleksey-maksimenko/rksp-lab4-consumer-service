@@ -1,0 +1,4 @@
+ru\maximenko\data_service\DataServiceApplication.class
+ru\maximenko\data_service\StudentMessageEntity$StudentMessageEntityBuilder.class
+ru\maximenko\data_service\StudentMessageEntity.class
+ru\maximenko\data_service\StudentMessageRepository.class
